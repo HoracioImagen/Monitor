@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.igasmembers.mx",
     "slug": "i-gas-members",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 373,
-    "timeDay": 420,
-    "timeWeek": 415,
-    "timeMonth": 383,
-    "timeYear": 373,
+    "uptimeYear": "99.92%",
+    "time": 374,
+    "timeDay": 532,
+    "timeWeek": 421,
+    "timeMonth": 391,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2022-06-23": 201
     }
